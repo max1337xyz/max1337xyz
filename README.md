@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GhostXYZ</h1>
-<h3 align="center">A passionate frontend developer from Fortal City</h3>
+<h3 align="center">A passionate  developer from Fortal City</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
