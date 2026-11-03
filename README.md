@@ -17,7 +17,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "YOUR_NAME"
+        self.name = "GhostXYZ"
         self.languages = ["Python", "HTML", "CSS"]
         self.interests = [
             "Cyber Security",
@@ -51,13 +51,13 @@ class Developer:
 **Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=python,html,css,bash,cpp" />
 </p>
 
 **Tools & Environment**
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,github,vscode" />
 </p>
 
 ---
@@ -74,17 +74,7 @@ Things I enjoy building:
 
 ---
 
-### `$ ./github_stats.sh`
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00FF9C&text_color=FFFFFF" />
-</p>
-
----
 
 ### `$ cat philosophy.txt`
 
