@@ -18,7 +18,7 @@
 class Developer:
     def __init__(self):
         self.name = "GhostXYZ"
-        self.languages = ["Python", "HTML", "CSS"]
+        self.languages = ["Python", "CPP", "BASH"]
         self.interests = [
             "Cyber Security",
             "Ethical Hacking",
@@ -51,7 +51,7 @@ class Developer:
 **Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,bash,cpp" />
+<img src="https://skillicons.dev/icons?i=python,bash,cpp" />
 </p>
 
 **Tools & Environment**
