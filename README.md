@@ -18,7 +18,7 @@
 class Developer:
     def __init__(self):
         self.name = "GhostXYZ"
-        self.languages = ["Python", "CPP", "BASH"]
+        self.languages = ["Python", "C++", "BASH"]
         self.interests = [
             "Cyber Security",
             "Ethical Hacking",
